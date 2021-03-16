@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "900217547128",
+    "project_id": "ecommerce-984b8",
+    "storage_bucket": "ecommerce-984b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900217547128:android:cd29db16822111ee49808d",
+        "android_client_info": {
+          "package_name": "com.mahdy.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900217547128-87vprqkj0n37ihlocm3ugpjlu6i0qpmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahdy.ecommerce",
+            "certificate_hash": "de61f3fb1c0a00e0ff992aafd7ce7666e038e8a7"
+          }
+        },
+        {
+          "client_id": "900217547128-r52j1j63mr2fqgp3gavmcnr29n2ol8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4atJqfrSEeGazGd3Vcl8vnWLSR40qBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900217547128-r52j1j63mr2fqgp3gavmcnr29n2ol8tr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900217547128-ft4p7b099t96coas105m1lrbpgf47nba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mahdy.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
